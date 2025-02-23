@@ -3,5 +3,3 @@
   "user": "Luke",
   "user": "Mike",
   "user": "Dave",
-  "user": "Zuul"
-}
